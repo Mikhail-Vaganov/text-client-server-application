@@ -1,5 +1,5 @@
 # Client-server system for text messages distribution
-Test task for Enaza
+Test task for one of my possible job
 
 The project represents a simple client-server model, which allows one to distribute text messages among client applications connected to the server.
 
